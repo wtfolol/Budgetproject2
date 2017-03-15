@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Budgetproject</string>
+    <string-array name="expenses_array">
+        <item>Food</item>
+        <item>Rental</item>
+        <item>IT</item>
+        <item>Cloth</item>
+    </string-array>
+</resources>
